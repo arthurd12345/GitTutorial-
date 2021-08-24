@@ -9,6 +9,7 @@ def print_hi(name):
     z=0
     x=10
     print("hello world")  # Press ⌘F8 to toggle the breakpoint.
+    print("12345")
     print("hello earth")
     print("hello space")
     print("hello Scott")
